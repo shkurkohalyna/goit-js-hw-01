@@ -1,5 +1,5 @@
 const total = 100;
-let ordered = 130;
+let ordered = 120;
 
 if (ordered > total) {
   console.log("На складе недостаточно товаров!");
